@@ -1,0 +1,1 @@
+"""Razza Smart Kalkulator tests."""
